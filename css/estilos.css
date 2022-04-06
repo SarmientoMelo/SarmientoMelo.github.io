@@ -1,0 +1,73 @@
+*{ margin: 0 0;}
+
+body{font: perpetua; 
+	background: url(../img/m.jpg);background-size: 100%;}
+
+
+#contenido{width: 90%; margin: auto;
+	background-color: rgb(249,238,225, 0.3)}
+
+#menu{padding:5px; font-size: 15px; 
+	letter-spacing: 2px;word-spacing: 15px; 
+	margin-left:10px ;}
+#menu a{color: black; text-decoration: none;
+		font-weight: bold;}
+#menu a:hover{border-bottom: 2px solid #C8AA9C;
+ color: #C8AA9C;}
+
+
+#titulo{background: url(../img/relojes.jpg)
+	top center; padding: 150px;margin: 5px;clear: both;}
+h1{visibility: hidden;}	
+
+#resumen{width: 75%; font-size: 20px;
+	padding: 20px;padding-left: 0; 
+	padding-right: 0;margin: 10px;}
+
+#imagenuno {width:300px;}
+#general{float: right; border: 2px solid;
+margin-top: 20px;padding: 5px;margin: 10px;}
+
+ul{letter-spacing: 1px;line-height: 2;}
+
+iframe{width: 70%; height: 500px;margin: 25px}
+
+#principales{margin: 10px;;} 
+
+.imagenes{float: left; width: 150px;
+ line-height: 40px;}
+
+.separacion {margin: 150px 20px; padding: 5px;
+margin-top: 10px;font-size: 20;font-size: 20px}
+.separacion img{padding-right: 10px;}
+
+.secundarios{margin: 10px;text-align: center;
+margin: 40px 90px;}
+
+.uno img{ width: 150px;margin: 10px;}
+.uno{display: inline-block;margin: 40px 90px}
+
+#dobaje{margin-left: 30px;}
+#doblaje img{width: 150px;}
+.actor{display: inline-block;margin: 20px 40px;
+	margin-left: 70px;}
+.actor h4{margin-left: 2px;}
+.actor img{}
+h6{color: #8E7328;font-size: 15px;
+margin-left: 15px;}
+
+#imagen2 img{float: right; width: 20%;
+ margin-left: 100PX;margin-top: 10px;}
+#imagen2{height: 200px;width: 90% ;margin: auto;}
+
+ul{line-height: 20px ;width: 70%;}
+ .list{margin: 60px 10px; font-size: 20px;
+ ;}
+ h2{margin: 5px;font-size: 20px;}
+#facts{font-size: 20px; margin: 10px 5pxs;}
+ hr{margin: 0 3px;}
+#datos{margin-top: -200px;}
+
+.footer{ background: #622216; color: #FFF;
+ height: 20px; margin: 5px;text-align: center;
+ padding-top: 7px; clear: both;}
